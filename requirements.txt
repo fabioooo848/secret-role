@@ -1,4 +1,4 @@
 discord.py
 
 import os
-bot.run(os.getenv("MTM2ODM2ODQ2NTk1Nzc1MjkxMw.Ges_Wv.V_EkedN3HD2EE9iShHL4yPP37UG5Ao3TYRrebg"))
+bot.run(os.getenv("Discord_Token_Now"))
